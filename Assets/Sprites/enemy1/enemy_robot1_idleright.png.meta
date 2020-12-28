@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 9f7820ff755299f4cbd83e103e91bf4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7429285694421742226
+    second: enemy_robot1_idleright_0
+  - first:
+      213: 1687234194751041056
+    second: enemy_robot1_idleright_1
+  - first:
+      213: 3208246618315600802
+    second: enemy_robot1_idleright_2
+  - first:
+      213: -7432664184865935593
+    second: enemy_robot1_idleright_3
+  - first:
+      213: -6452734315885596356
+    second: enemy_robot1_idleright_4
+  - first:
+      213: -4006956053695335156
+    second: enemy_robot1_idleright_5
+  - first:
+      213: 1569002158483814684
+    second: enemy_robot1_idleright_6
+  - first:
+      213: 4307349993440891801
+    second: enemy_robot1_idleright_7
+  - first:
+      213: -5959099780869716150
+    second: enemy_robot1_idleright_8
+  - first:
+      213: 8380621648397896743
+    second: enemy_robot1_idleright_9
+  - first:
+      213: 9017299853790066305
+    second: enemy_robot1_idleright_10
+  - first:
+      213: 6275527064167301177
+    second: enemy_robot1_idleright_11
+  - first:
+      213: -2614013453373177038
+    second: enemy_robot1_idleright_12
+  - first:
+      213: -2883230717687610075
+    second: enemy_robot1_idleright_13
+  - first:
+      213: -6327794101688970411
+    second: enemy_robot1_idleright_14
+  - first:
+      213: -1141458009505496396
+    second: enemy_robot1_idleright_15
+  - first:
+      213: 5402363031470019514
+    second: enemy_robot1_idleright_16
+  - first:
+      213: 2601825696674657598
+    second: enemy_robot1_idleright_17
+  - first:
+      213: 6970297845710492436
+    second: enemy_robot1_idleright_18
+  - first:
+      213: -10641693947141012
+    second: enemy_robot1_idleright_19
+  - first:
+      213: 844638455971788740
+    second: enemy_robot1_idleright_20
+  - first:
+      213: 1490855152195454719
+    second: enemy_robot1_idleright_21
+  - first:
+      213: -28885367495250952
+    second: enemy_robot1_idleright_22
+  - first:
+      213: 473232923464883186
+    second: enemy_robot1_idleright_23
+  - first:
+      213: -559717646498802896
+    second: enemy_robot1_idleright_24
+  - first:
+      213: 4104196174121432118
+    second: enemy_robot1_idleright_25
+  - first:
+      213: -2345716825708280507
+    second: enemy_robot1_idleright_26
+  - first:
+      213: 7401389046569321912
+    second: enemy_robot1_idleright_27
+  - first:
+      213: -6837990983408885551
+    second: enemy_robot1_idleright_28
+  - first:
+      213: 8770056109999171579
+    second: enemy_robot1_idleright_29
+  - first:
+      213: 7791486766101307769
+    second: enemy_robot1_idleright_30
+  - first:
+      213: 6251278608582788063
+    second: enemy_robot1_idleright_31
+  - first:
+      213: 1105157402973141245
+    second: enemy_robot1_idleright_32
+  - first:
+      213: 8210909209225649095
+    second: enemy_robot1_idleright_33
+  - first:
+      213: -8326621469996907235
+    second: enemy_robot1_idleright_34
+  - first:
+      213: 2336557593562864418
+    second: enemy_robot1_idleright_35
+  - first:
+      213: -7079642021824090185
+    second: enemy_robot1_idleright_36
+  - first:
+      213: 1252483970199383734
+    second: enemy_robot1_idleright_37
+  - first:
+      213: 9125422538205397850
+    second: enemy_robot1_idleright_38
+  - first:
+      213: -2642275156522245089
+    second: enemy_robot1_idleright_39
+  - first:
+      213: -8065818058814108607
+    second: enemy_robot1_idleright_40
+  - first:
+      213: -1080905919472514223
+    second: enemy_robot1_idleright_41
+  - first:
+      213: -8686347833643010399
+    second: enemy_robot1_idleright_42
+  - first:
+      213: -6726747787466047134
+    second: enemy_robot1_idleright_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_robot1_idleright_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc911e500e5e890800000000000000
+      internalID: -7429285694421742226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_robot1_idleright_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e270f8f824a6710800000000000000
+      internalID: 1687234194751041056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_robot1_idleright_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bc842d4bf58c20800000000000000
+      internalID: 3208246618315600802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_robot1_idleright_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f2c46cd4fd9d890800000000000000
+      internalID: -7432664184865935593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
